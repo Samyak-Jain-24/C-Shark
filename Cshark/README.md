@@ -1,5 +1,3 @@
-KEHDE
-
 # C-Shark: The Terminal Packet Sniffer
 
 A comprehensive command-line network packet analyzer built in C using libpcap. C-Shark provides deep packet inspection capabilities with layer-by-layer analysis from Ethernet to Application layer.
